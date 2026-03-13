@@ -84,10 +84,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Design & Development by [Yogesh Rebari](https://github.com/yogeshrebari)
+- Design & Development by [Ponugoti Koteswara Rao](https://github.com/ponugotikotesh)
 - Icons by [Iconscout](https://unicons.iconscout.com/)
 - Images from [Unsplash](https://unsplash.com/)
 
 ---
 
-<p align="center">Made with ❤️ by <a href="https://github.com/yogeshrebari">Yogesh Rebari</a></p> 
+<p align="center">Made with ❤️ by <a href="https://github.com/ponugotikotesh">Ponugoti Koteswara Rap
+</a></p> 
+
